@@ -17,7 +17,7 @@
 ![Gui's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlhrmSilveira&show_icons=true&theme=dracula)
 
 ### Technologies in my daily life
- -  🇧🇷🇵🇹  **Tecnologias do dia a dia**
+    🇧🇷🇵🇹  **Tecnologias do dia a dia**
    
 <div style="display: inline_block"><br/>
     <img aglin="center" alt= "swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
@@ -26,6 +26,9 @@
     <img aglin="center" alt= "java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img aglin="center" alt= "flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
 </div>
+<br/>
+
+technology and education change lives
 
 
 
