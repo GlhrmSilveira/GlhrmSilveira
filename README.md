@@ -4,8 +4,8 @@
 - 🔭 I’m currently working as **Mobile front-end**!<br>
     🇧🇷🇵🇹  Atualmente estou trabalhando como **front-end Mobile**!
   
-- 🌱 I’m currently learning **iOS Development**<br>
-    🇧🇷🇵🇹  Atualmente estou aprendendo **Desenvolvimento iOS**
+- 🌱 I’m currently learning **iOS native Development and Android native Development**<br>
+    🇧🇷🇵🇹  Atualmente estou aprendendo **Desenvolvimento nativo iOS e Desenvolvimento nativo Android**
 
 
   
